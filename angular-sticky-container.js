@@ -1,3 +1,6 @@
+var angular = require('angular');
+var Hamster = require('hamsterjs');
+
 (function () {
   'use strict';
 
